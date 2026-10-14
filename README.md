@@ -17,8 +17,11 @@ Software Engineering student at **Universidad Tecnológica de Panamá**, working
 #### Tools I work with
  
 **Languages:** Python · SQL · Swift · TypeScript
+
 **Backend & apps:** FastAPI · PostgreSQL · SwiftUI · React
+
 **Data:** Power BI · Tableau · Google BigQuery · pandas · Excel / Power Query
+
 **Cloud & tooling:** AWS · Git · Linux · GitHub Actions
  
 #### How I work
