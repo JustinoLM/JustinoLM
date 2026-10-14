@@ -11,7 +11,7 @@ Software Engineering student at **Universidad Tecnológica de Panamá**, working
 | Project | What it is | Stack |
 |---|---|---|
 | [**Cuentas Claras**](https://github.com/JustinoLM/cuentas-claras) | Local-first iOS app that scans Panama DGI e-invoices and turns them into an expense history. No backend, no account required. | Swift, SwiftUI, SwiftData |
-| [**Intelligent Tutoring System**](https://github.com/JustinoLM/Tesis-STI-MATEMATICAS) | Thesis project for Panamanian elementary students: adaptive practice, ML-based error diagnosis, LLM-generated hints, gamification and a teacher admin panel with exports. | Python, React, TypeScript |
+| [**Intelligent Tutoring System**](https://github.com/JustinoLM/STI-matematicas) | Thesis project for Panamanian elementary students: adaptive practice, ML-based error diagnosis, LLM-generated hints, gamification and a teacher admin panel with exports. | Python, React, TypeScript |
 | [**Veridex**](https://github.com/JustinoLM/veridex) | Knights & Knaves logic puzzle solver that explains its reasoning in plain language, with a puzzle generator and difficulty classifier. | Python |
  
 #### Tools I work with
